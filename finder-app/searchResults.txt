@@ -1,0 +1,10 @@
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem2.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem6.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem4.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem9.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem3.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem7.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem10.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem1.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem8.txt:AELD_IS_FUN
+/tmp/aeld-data/WimyyEo8azPVfXhN8EoGxIJIRvyodbWQ/DemaQasem5.txt:AELD_IS_FUN
